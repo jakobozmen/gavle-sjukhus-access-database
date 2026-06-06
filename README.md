@@ -2,6 +2,10 @@
 
 Detta är ett databasprojekt skapat i Microsoft Access. Projektet är byggt som ett sjukhussystem med frontend/backend-struktur, formulär, rapporter, sökfunktioner och PDF-export.
 
+Öppna Gavle_Sjukhus_FE.accdb för att starta systemet.
+Gavle_Sjukhus_BE.accdb måste ligga i samma mapp som FE-filen.
+Om Access blockerar makron: högerklicka på FE-filen > Properties > Unblock.
+
 ## Funktioner
 
 - Startsida med navigering
