@@ -26,6 +26,26 @@ Detta är ett databasprojekt skapat i Microsoft Access. Projektet är byggt som 
 - Frontend/backend-uppdelning
 - GitHub
 
+## Skärmbilder
+
+### Startsida
+![Startsida](Github_Upload/Screenshots/Startmeny.png)
+
+### Patienter
+![Patienter](Github_Upload/Screenshots/Patienter.png)
+
+### Läkare
+![Läkare](Github_Upload/Screenshots/Lakare.png)
+
+### Behandlingar
+![Behandlingar](Github_Upload/Screenshots/Behandlingar.png)
+
+### Patientbehandling
+![Patientbehandling](Github_Upload/Screenshots/Patientbehandling.png)
+
+### Patientrapport
+![Patientrapport](Github_Upload/Screenshots/Patientrapport.png)
+
 ## Filer
 
 Databasfilerna finns i mappen `Github_Upload`.
