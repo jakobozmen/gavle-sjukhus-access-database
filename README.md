@@ -2,9 +2,14 @@
 
 Detta är ett databasprojekt skapat i Microsoft Access. Projektet är byggt som ett sjukhussystem med frontend/backend-struktur, formulär, rapporter, sökfunktioner och PDF-export.
 
-Öppna Gavle_Sjukhus_FE.accdb för att starta systemet.
-Gavle_Sjukhus_BE.accdb måste ligga i samma mapp som FE-filen.
-Om Access blockerar makron: högerklicka på FE-filen > Properties > Unblock.
+## Starta och prova projektet
+
+1. Ladda ner projektfilerna från mappen `Github_Upload`.
+2. Placera `Gavle_Sjukhus_FE.accdb` och `Gavle_Sjukhus_BE.accdb` i samma mapp.
+3. Öppna frontend-filen i Microsoft Access.
+4. Kontrollera eventuella frågor om länkade tabeller och säkerhetsvarningar innan du tillåter makron eller VBA.
+
+**Säkerhet:** Aktivera endast innehåll och makron om du litar på filens ursprung och har kontrollerat vad den innehåller.
 
 ## Funktioner
 
@@ -59,6 +64,16 @@ Databasfilerna finns i mappen `Github_Upload`.
 - `Gävle_Ikon_Logo.png` – projektets logga
 - `Hospital_Icon.ico` – ikonfil
 - `Startmeny_Bild_Gävle.png` – bild för startsidan
+
+## Portfolio och demonstration
+
+Den här databasen visar relationsdatabaser, användargränssnitt och automation i ett Access-projekt. Bilderna ovan ger en snabb överblick utan att besökaren behöver öppna databasen.
+
+Se också min [personliga IT-portfolio](https://jakobozmen.github.io/Lexicon_Project/) och min [GitHub-profil](https://github.com/jakobozmen).
+
+## Kontrollera data innan offentlig delning
+
+Både backendfilen och frontenden ligger i ett **offentligt** GitHub-repository. Om filer innehåller patientuppgifter, personuppgifter, interna dokument eller inloggningsuppgifter måste dessa tas bort och datan anonymiseras innan delning. Här har innehållet i Access-filerna **inte** granskats; de ska därför inte beskrivas som verifierat anonymiserade.
 
 ## Syfte
 
